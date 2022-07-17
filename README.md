@@ -43,3 +43,9 @@ Enter FZF preview mode with bat
 ```
 fzfp
 ```
+
+Workaround to start vscode and ssh-agent in the same environment
+
+```
+vscode
+```
