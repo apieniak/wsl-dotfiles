@@ -4,7 +4,7 @@ Personal dotfiles to setup a WSL instance for development.
 It contains:
 
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/)
-- [zsh autsuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [antigen, zsh plugin manager](https://github.com/zsh-users/antigen)
 - [keychain, for managing SSH Keys](https://linux.die.net/man/1/keychain)
 - [bat, a cat clone with wings](https://github.com/sharkdp/bat)
