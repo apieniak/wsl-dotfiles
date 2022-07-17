@@ -1,6 +1,8 @@
-source ~/antigen.zsh
+# Load kubectl auto-completion
+source <(kubectl completion zsh)
 
 #Load the oh-my-zsh's library and antigen bundles.
+source ~/antigen.zsh
 antigen use oh-my-zsh
 antigen bundle git
 antigen bundle zsh-users/zsh-syntax-highlighting
