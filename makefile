@@ -2,6 +2,7 @@ build:
 	sudo apt-get install zsh
 	curl -L git.io/antigen > ~/antigen.zsh
 	mkdir ~/.ssh
+	sudo apt-get install ansible
 	sudo apt-get install keychain
 	sudo apt install bat
 	sudo ln -s /usr/bin/batcat /usr/local/bin/bat

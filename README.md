@@ -11,6 +11,7 @@ It contains:
 - [fzf, a command-line fuzzy finder](https://github.com/junegunn/fzf)
 - [docker zsh completion](https://github.com/greymd/docker-zsh-completion)
 - [kubectl zsh completion](https://kubernetes.io/docs/tasks/tools/included/optional-kubectl-configs-zsh/)
+- [ansible](https://www.ansible.com/)
 
 ## Requirements
 
